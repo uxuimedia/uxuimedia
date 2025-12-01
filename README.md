@@ -1,11 +1,11 @@
-### Hi there 👋 I'm Sergei aka Uzabila
+### Hi there 👋 I'm Sergei
 
 I'm a Graphic Designer, Frontend-developer and WordPress enthusiast.
 
-My website - <https://uzabila.github.io>
+My website - <https://uxui.media>
 
 <!--
-**uzabila/uzabila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**uxuimedia/uxuimedia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
