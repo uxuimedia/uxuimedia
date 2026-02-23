@@ -9,27 +9,27 @@ My website - <https://uxui.media>
 <table>
   <tr>
     <td>:link:</td>
-    <td>**Working on**</td>
-    <td>[beach-volley.ru](https://beach-volley.ru)</td>
+    <td><b>Working on</b></td>
+    <td><a href="https://beach-volley.ru" target="_blank">beach-volley.ru</a></td>
   </tr>
   <tr>
     <td>:open_book:</td>
-    <td>**Currently learning**</td>
+    <td><b>Currently learning</b></td>
     <td>Advanced Javascript</td>
   </tr>
   <tr>
     <td>:rocket:</td>
-    <td>**Status**</td>
+    <td><b>Status</b></td>
     <td>Open to work</td>
   </tr>
   <tr>
     <td>:globe_with_meridians:</td>
-    <td>**Portfolio**</td>
-    <td>[uxui.media](https://uxui.media)</td>
+    <td><b>Portfolio</b></td>
+    <td><a href="https://uxui.media" target="_blank">uxui.media</a></td>
   </tr>
   <tr>
     <td>:email:</td>
-    <td>**Contact**</td>
+    <td><b>Contact</b></td>
     <td>sergei.m.ermilov@gmail.com</td>
   </tr>
 </table>
