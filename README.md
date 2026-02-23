@@ -6,12 +6,34 @@ My website - <https://uxui.media>
 
 ![](https://komarev.com/ghpvc/?username=uxuimedia&color=lightgrey)
 
-| | | |
-| :link: | **Working on** | [beach-volley.ru](https://beach-volley.ru) |
-| :open_book: | **Currently learning** | Advanced Javascript |
-| :rocket: | **Status** | Open to work |
-| :globe_with_meridians: | **Portfolio** | [uxui.media](https://uxui.media) |
-| :email: | **Contact** | sergei.m.ermilov@gmail.com 🏐 |
+<table>
+  <tr>
+    <td>:link:</td>
+    <td>**Working on**</td>
+    <td>[beach-volley.ru](https://beach-volley.ru)</td>
+  </tr>
+  <tr>
+    <td>:open_book:</td>
+    <td>**Currently learning**</td>
+    <td>Advanced Javascript</td>
+  </tr>
+  <tr>
+    <td>:rocket:</td>
+    <td>**Status**</td>
+    <td>Open to work</td>
+  </tr>
+  <tr>
+    <td>:globe_with_meridians:</td>
+    <td>**Portfolio**</td>
+    <td>[uxui.media](https://uxui.media)</td>
+  </tr>
+  <tr>
+    <td>:email:</td>
+    <td>**Contact**</td>
+    <td>sergei.m.ermilov@gmail.com</td>
+  </tr>
+</table>
+
 
 
 <!--
