@@ -8,7 +8,7 @@ My website - <https://uxui.media>
 
 <table>
   <tr>
-    <td>:link:</td>
+    <td>:office:</td>
     <td><b>Working on</b></td>
     <td><a href="https://beach-volley.ru" target="_blank">beach-volley.ru</a></td>
   </tr>
