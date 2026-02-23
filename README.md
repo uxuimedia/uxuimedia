@@ -6,8 +6,6 @@ My website - <https://uxui.media>
 
 ![](https://komarev.com/ghpvc/?username=uxuimedia&color=lightgrey)
 
-
-| :--- | :--- | :--- |
 | :link: | **Working on** | [beach-volley.ru](https://beach-volley.ru) |
 | :open_book: | **Currently learning** | Advanced Javascript |
 | :rocket: | **Status** | Open to work |
