@@ -4,7 +4,7 @@ I'm a Graphic Designer, Frontend-developer and WordPress enthusiast.
 
 My website - <https://uxui.media>
 
-![](https://komarev.com/ghpvc/?username=uxuimedia)
+![](https://komarev.com/ghpvc/?username=uxuimedia&color=lightgrey))
 
 <!--
 **uxuimedia/uxuimedia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
