@@ -10,7 +10,7 @@ My website - <https://uxui.media>
   <tr>
     <td>:office:</td>
     <td><b>Working on</b></td>
-    <td><a href="https://beach-volley.ru" target="_blank">beach-volley.ru</a></td>
+    <td><a href="https://spoto.app" target="_blank">spoto.app</a></td>
   </tr>
   <tr>
     <td>:open_book:</td>
