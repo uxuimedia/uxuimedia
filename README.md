@@ -30,7 +30,7 @@ My website - <https://uxui.media>
   <tr>
     <td>:globe_with_meridians:</td>
     <td><b>Portfolio</b></td>
-    <td><a href="https://uxui.media" target="_blank">uxui.media</a></td>
+    <td><a href="https://uxuimedia.github.io" target="_blank">uxuimedia.github.io</a></td>
   </tr>
   <tr>
     <td>:email:</td>
