@@ -35,7 +35,7 @@ My website - <https://uxuimedia.github.io>
   <tr>
     <td>:email:</td>
     <td><b>Contact</b></td>
-    <td>sergei.m.ermilov@gmail.com</td>
+    <td>sergeiuxui@gmail.com</td>
   </tr>
 </table>
 
