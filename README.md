@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Sergei
 
-I'm a Web and Graphic Designer, Frontend-developer, PHP and WordPress enthusiast :smile:
+I'm a Web and Graphic Designer, Frontend-developer, PHP and WordPress enthusiast :slightly_smiling_face:
 
 My website - <https://uxuimedia.github.io>
 
