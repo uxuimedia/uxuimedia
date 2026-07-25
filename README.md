@@ -10,17 +10,12 @@ My website - <https://uxuimedia.github.io>
   <tr>
     <td>:office:</td>
     <td><b>Working on</b></td>
-    <td><a href="https://spoto.app" target="_blank">spoto.app</a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td><a href="https://probeach.ru" target="_blank">probeach.ru</a></td>
+    <td><a href="https://spoto.app" target="_blank">spoto.app</a>, <a href="https://probeach.ru" target="_blank">probeach.ru</a></td>
   </tr>
   <tr>
     <td>:open_book:</td>
     <td><b>Currently learning</b></td>
-    <td>Advanced Javascript</td>
+    <td>Advanced Javascript, RestAPI</td>
   </tr>
   <tr>
     <td>:rocket:</td>
